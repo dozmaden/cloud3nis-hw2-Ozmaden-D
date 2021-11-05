@@ -1,0 +1,61 @@
+.title {
+  color: rgb(38, 113, 253);
+}
+
+input {
+  padding: 10px;
+  width: 195px;
+  text-align: left;
+  padding: 15px 35px 15px 15px;
+  border: 1px solid rgb(38, 113, 253);
+  background: transparent;
+}
+
+button {
+  text-align: center;
+  padding: 16px 7px;
+  width: 80px;
+  border: none;
+  background: rgb(38, 113, 253);
+  color: rgb(255, 255, 255);
+}
+
+.task {
+  padding: 15px;
+  width: 300px;
+  margin-top: 15px;
+  background: rgb(38, 113, 253);
+  text-align: left;
+  color: #fff;
+}
+
+.task .text {
+  display: inline-block;
+  font-size: 18px;
+}
+
+.task .completeBtn {
+  display: inline-block;
+  position: relative;
+  float: right;
+  font-size: 16px;
+  left: -30px;
+  color: rgb(0, 0, 0);
+  border: 1px solid rgb(255, 255, 255);
+  background-color: rgb(66, 252, 66);
+}
+
+.task .delete {
+  display: inline-block;
+  position: relative;
+  float: right;
+  font-size: 16px;
+  left: -6px;
+  color:rgb(0, 0, 0);
+  border: 1px solid rgb(255, 255, 255);
+  background-color: rgb(245, 108, 108);
+}
+
+.completed {
+  text-decoration: line-through;
+}

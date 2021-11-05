@@ -1,2 +1,3 @@
-# cloud3nis-hw2-Ozmaden-D
-Домашняя работа 2. ToDoList
+# Домашняя работа 2. ToDoList
+
+![image](https://i.imgur.com/Ctr0yS8.gif)
